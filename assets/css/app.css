@@ -32,3 +32,10 @@ a{
 i{
     font-size: 3em;
 }
+.contactez{
+    font-size: 2em;
+    text-align: center;
+}
+#submit{
+    width: 100%;
+}
