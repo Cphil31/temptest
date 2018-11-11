@@ -1,3 +1,11 @@
 body {
     background-color: white;
 }
+.cool{
+    color:red;
+    font-size: 3em;
+    text-align: center;
+    background-image: url("https://picsum.photos/458/354?image=816");
+    background-repeat: no-repeat;
+    background-size: auto ;
+}
